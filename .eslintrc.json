@@ -18,13 +18,6 @@
     "ecmaVersion": 12,
     "sourceType": "module"
   },
-  "settings": {
-    "prettierx": {
-      "options": {
-        "useprettierrc": true
-      }
-    }
-  },
   "plugins": [
     "react",
     "react-hooks",
